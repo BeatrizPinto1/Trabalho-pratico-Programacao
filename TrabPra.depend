@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1650892518 source:c:\users\beatr\onedrive\ambiente de trabalho\facu\2ºano\2ºsemestre\p\trabpra\main.c
+	<stdio.h>
+	"jogo.c"
+
+1650893030 c:\users\beatr\onedrive\ambiente de trabalho\facu\2ºano\2ºsemestre\p\trabpra\jogo.c
+	"jogo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1650889188 c:\users\beatr\onedrive\ambiente de trabalho\facu\2ºano\2ºsemestre\p\trabpra\jogo.h
+

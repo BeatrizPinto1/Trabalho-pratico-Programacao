@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/P/TrabPra/jogo.c
+jogo.h
+/cygdrive/d/P/TrabPra/jogo.h
+utils.h
+/cygdrive/d/P/TrabPra/utils.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/cygdrive/d/P/TrabPra/jogo.h
+
+/cygdrive/d/P/TrabPra/main.c
+stdio.h
+-
+jogo.h
+/cygdrive/d/P/TrabPra/jogo.h
+utils.h
+/cygdrive/d/P/TrabPra/utils.h
+
+/cygdrive/d/P/TrabPra/utils.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+utils.h
+/cygdrive/d/P/TrabPra/utils.h
+
+/cygdrive/d/P/TrabPra/utils.h
+

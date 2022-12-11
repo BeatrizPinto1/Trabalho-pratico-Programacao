@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g -Wl,--enable-auto-import CMakeFiles/TrabPra.dir/jogo.c.o CMakeFiles/TrabPra.dir/main.c.o CMakeFiles/TrabPra.dir/utils.c.o -o TrabPra.exe -Wl,--out-implib,libTrabPra.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
